@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dao/static/css/main.8cafffc4.chunk.css",
+    "main.js": "/dao/static/js/main.90ac7fe5.chunk.js",
+    "main.js.map": "/dao/static/js/main.90ac7fe5.chunk.js.map",
+    "runtime-main.js": "/dao/static/js/runtime-main.6e4dab2e.js",
+    "runtime-main.js.map": "/dao/static/js/runtime-main.6e4dab2e.js.map",
+    "static/js/2.9683058b.chunk.js": "/dao/static/js/2.9683058b.chunk.js",
+    "static/js/2.9683058b.chunk.js.map": "/dao/static/js/2.9683058b.chunk.js.map",
+    "index.html": "/dao/index.html",
+    "static/css/main.8cafffc4.chunk.css.map": "/dao/static/css/main.8cafffc4.chunk.css.map",
+    "static/js/2.9683058b.chunk.js.LICENSE.txt": "/dao/static/js/2.9683058b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e4dab2e.js",
+    "static/js/2.9683058b.chunk.js",
+    "static/css/main.8cafffc4.chunk.css",
+    "static/js/main.90ac7fe5.chunk.js"
+  ]
+}
